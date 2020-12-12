@@ -1,4 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+  src: url("./fonts/Regular/GlacialIndifference-Regular.woff2");
+  font-family: "Glacial Indifference";
+}
+
 html {
   height: 100%;
   width: 100%;
