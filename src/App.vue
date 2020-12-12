@@ -1,7 +1,7 @@
 <template>
   <Navbar />
   <div class="wrapper">
-    <p class="subtitle">WE MAKE COMPLICATED THINGS SIMPLE</p>
+    <p class="subtitle">THE DEVELOPER COMPANY</p>
     <p class="ingress">
       Software designed for possibilities. DevComp is a consultancy firm based
       in Uppsala, Sweden. We offer digital solutions tailor made to your needs
